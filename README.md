@@ -1,12 +1,11 @@
 <div align="center">
 
-# Deepak Rauniyar
+# Hi, I'm Deepak Rauniyar 👋
 
 ### Full-Stack MERN Developer • Backend Systems Developer • IoT & AI Builder
 
-Designing scalable backend systems, production-grade web applications, and real-world IoT + AI solutions with a focus on clean architecture and strong engineering fundamentals.
+I focused on bridging the gap between software and physical devices. I build projects that combine web technology with hardware & AI — from laptop-interfaced biometric devices to IoT alert networks. I'm currently looking for exciting opportunities to build, learn, and grow as an engineer.
 
-<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://deepak-rauniyar-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepakrauniyar963)
@@ -20,9 +19,11 @@ Designing scalable backend systems, production-grade web applications, and real-
 ## 👨‍💻 About Me
 
 MCA student at **Integral University, Lucknow**, focused on building **scalable software systems and real-world engineering solutions**.
-I'm a Full-Stack MERN Developer from Lucknow who loves building things that work — both on the screen and in the real world. During my MCA at Integral University, I focused on bridging the gap between software and physical devices. I build projects that combine web technology with hardware & AI — from laptop-interfaced biometric devices to IoT alert networks. I'm currently looking for exciting opportunities to build, learn, and grow as an engineer.
-
-I enjoy working across backend systems, full-stack applications, and IoT-based automation — with a strong focus on system design, performance, and practical implementation.
+* 💻 Full Stack MERN Developer
+* 🤖 Exploring AI, Computer Vision & Automation
+* 🌐 Passionate about Web Technologies and Backend Systems
+* 📚 Strong foundation in DSA, DBMS, OS and Computer Networks
+* 🔍 Always learning and building practical solutions
 
 ---
 
@@ -78,7 +79,7 @@ I enjoy working across backend systems, full-stack applications, and IoT-based a
 
 ## 🚀 Featured Projects
 
-### 🔐 SmartEntry 2FA — Biometric Attendance System
+### 🔐 SmartEntry2FA — Biometric Attendance System
 
 A secure dual-authentication system using face recognition and fingerprint verification.
 
@@ -137,15 +138,6 @@ A modern developer portfolio showcasing skills, projects, and experience.
 
 * Sigma 9.0 (DSA with Java) — Apna College
 * Sigma 9.0 Full Stack Web Development (MERN Stack) — Apna College
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakrauniyar5151&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrauniyar5151&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
 
 ---
 
