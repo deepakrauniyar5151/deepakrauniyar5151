@@ -1,130 +1,177 @@
-# Hi, I'm Deepak Rauniyar 👋
+<div align="center">
 
-### MCA Student | Full Stack Developer | IoT & AI Enthusiast
+# Deepak Rauniyar
 
-I am an MCA student at Integral University, Lucknow with a strong interest in Full Stack Development, Computer Networks, IoT Systems, and AI-powered applications.
+### Full-Stack MERN Developer • Backend Systems Developer • IoT & AI Builder
 
-I enjoy building scalable web applications, designing REST APIs, solving real-world problems through software, and working on hardware-integrated solutions using computer vision and biometric technologies.
+Designing scalable backend systems, production-grade web applications, and real-world IoT + AI solutions with a focus on clean architecture and strong engineering fundamentals.
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://deepak-rauniyar-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepakrauniyar963)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/deepakrauniyar963)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepakrauniyar.official963@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 MCA Student at Integral University, Lucknow
-* 💻 Full Stack MERN Developer
-* 🤖 Exploring AI, Computer Vision & Automation
-* 🌐 Passionate about Web Technologies and Backend Systems
-* 📚 Strong foundation in DSA, DBMS, OS and Computer Networks
-* 🔍 Always learning and building practical solutions
+MCA student at **Integral University, Lucknow**, focused on building **scalable software systems and real-world engineering solutions**.
+I'm a Full-Stack MERN Developer from Lucknow who loves building things that work — both on the screen and in the real world. During my MCA at Integral University, I focused on bridging the gap between software and physical devices. I build projects that combine web technology with hardware & AI — from laptop-interfaced biometric devices to IoT alert networks. I'm currently looking for exciting opportunities to build, learn, and grow as an engineer.
+
+I enjoy working across backend systems, full-stack applications, and IoT-based automation — with a strong focus on system design, performance, and practical implementation.
+
+---
+
+## 🧠 Core Expertise
+
+* Full Stack Web Development (MERN)
+* Backend System Design & REST APIs
+* Authentication & Authorization (JWT, RBAC)
+* IoT & Embedded Systems Integration
+* AI & Computer Vision Applications
+* Computer Networks & Operating Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-Java • Python • JavaScript • C/C++
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### Frontend
+### 🎨 Frontend Development
 
-React.js • HTML5 • CSS3 • Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
-### Backend
+### ⚙️ Backend Development
 
-Node.js • Express.js • REST APIs • JWT Authentication
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 
-### Database
+### 🗄️ Databases
 
-MongoDB • SQLite
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 
-### Tools & Platforms
+### 🧰 Tools & Platforms
 
-Git • GitHub • VS Code • Postman • Vercel • Arduino IDE • OpenCV
-
----
-
-## Featured Projects
-
-### SmartEntry 2FA – Dual Biometric Attendance System
-
-A biometric attendance management system combining facial recognition and fingerprint authentication.
-
-#### Key Features
-
-* Face Recognition using OpenCV
-* Fingerprint Authentication using R307 Sensor
-* SMS Alerts through GSM Module
-* Automated Email Notifications
-* SQLite Data Storage
-* Arduino Hardware Integration
-
-**Tech Stack:** Python, OpenCV, Arduino, SQLite, SIM800A
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ---
 
-### MERN Task Manager
+## 🚀 Featured Projects
 
-A full-stack task management application with authentication and task tracking capabilities.
+### 🔐 SmartEntry 2FA — Biometric Attendance System
 
-#### Key Features
+A secure dual-authentication system using face recognition and fingerprint verification.
 
-* JWT Authentication
-* Role-Based Access Control
-* Task Tracking
-* Priority Management
-* Deadline Reminders
-* Responsive Design
+* OpenCV-based facial recognition system
+* R307 fingerprint sensor integration
+* Arduino-based hardware control
+* GSM SMS alert system (SIM800A module)
+* Automated email notifications
+* SQLite database for secure storage
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, JWT
-
----
-
-### Personal Portfolio Website
-
-Modern responsive portfolio website showcasing projects, skills, and achievements.
-
-#### Features
-
-* Responsive Design
-* Modern UI/UX
-* Contact Form Integration
-* Optimized Performance
-* Vercel Deployment
-
-**Tech Stack:** React.js, Tailwind CSS, JavaScript, Vercel
+**Tech Stack:** Python • OpenCV • Arduino • SQLite • GSM Module
 
 ---
 
-## Certifications
+### 📋 MERN Task Manager
 
-* Sigma 9.0 (DSA with Java) – Apna College
-* Sigma 9.0 Full Stack Web Development (MERN Stack) – Apna College
+A full-stack task management system with authentication and role-based access control.
 
----
+* JWT authentication system
+* Role-based access control (RBAC)
+* Task CRUD operations
+* Priority & deadline tracking
+* RESTful API architecture
 
-## Education
-
-### Master of Computer Applications (MCA)
-
-Integral University, Lucknow
-CGPA: 8.5
-
-### Bachelor of Computer Applications (BCA)
-
-Integral University, Lucknow
-CGPA: 8.5
+**Tech Stack:** MongoDB • Express • React • Node.js • JWT
 
 ---
 
-## Connect With Me
+### 🌐 Portfolio Website
 
-* LinkedIn: https://www.linkedin.com/in/deepakrauniyar963
-* Portfolio: https://deepak-rauniyar-portfolio.vercel.app
-* GitHub: https://github.com/deepakrauniyar963
-* Email: [deepakrauniyar.official963@gmail.com](mailto:deepakrauniyar.official963@gmail.com)
+A modern developer portfolio showcasing skills, projects, and experience.
+
+* Responsive UI with clean design
+* Component-based architecture
+* Contact form integration
+* Optimized performance
+* Deployed on Vercel
+
+**Tech Stack:** React.js • Tailwind CSS • JavaScript • Vercel
 
 ---
 
-### Current Focus
+## 🎓 Education
 
-Building Full Stack Applications, strengthening Data Structures & Algorithms, exploring Computer Networks, and developing AI-powered real-world solutions.
+**Integral University, Lucknow**
+
+* Master of Computer Applications (MCA) — 2024–2026
+  CGPA: 8.5
+
+* Bachelor of Computer Applications (BCA) — 2021–2024
+  CGPA: 8.5
+
+---
+
+## 🏆 Certifications
+
+* Sigma 9.0 (DSA with Java) — Apna College
+* Sigma 9.0 Full Stack Web Development (MERN Stack) — Apna College
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakrauniyar5151&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakrauniyar5151&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 📈 Current Focus
+
+* Backend scalability & system design
+* Advanced Data Structures & Algorithms
+* Production-ready full stack applications
+* Computer Networks & OS deep understanding
+* AI + IoT real-world systems
+
+---
+
+## 📫 Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://deepak-rauniyar-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/deepakrauniyar963)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github)](https://github.com/deepakrauniyar963)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:deepakrauniyar.official963@gmail.com)
+
+---
+
+<div align="center">
+
+### ⚡ Build. Break. Learn. Scale.
+
+*"Strong engineers don’t just write code — they build systems that work in the real world."*
+
+</div>
