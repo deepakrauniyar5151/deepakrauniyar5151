@@ -3,11 +3,8 @@
 # Hi, I'm Deepak Rauniyar 👋
 
 ### Full-Stack MERN Developer • Backend Systems Developer • IoT & AI Builder
-</div>
-
 
 I focused on bridging the gap between software and physical devices. I build projects that combine web technology with hardware & AI — from laptop-interfaced biometric devices to IoT alert networks. I'm currently looking for exciting opportunities to build, learn, and grow as an engineer.
-<div align="center">
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://deepak-rauniyar-portfolio.vercel.app)
